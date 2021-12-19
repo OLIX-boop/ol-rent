@@ -1,4 +1,4 @@
-Locales['en'] = {
+Locales['it'] = {
 	['press_e'] = 'Premi ~INPUT_CONTEXT~ per aprire il noleggio.',
 	['storebike'] = 'Premi ~INPUT_CONTEXT~ restituire il veicolo.',	
 	['biketitle'] = 'Noleggio',
