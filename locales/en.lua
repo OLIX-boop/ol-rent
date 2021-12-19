@@ -1,10 +1,10 @@
 Locales['en'] = {
-	['press_e'] = 'Premi ~INPUT_CONTEXT~ per aprire il noleggio.',
-	['storebike'] = 'Premi ~INPUT_CONTEXT~ restituire il veicolo.',	
-	['biketitle'] = 'Noleggio',
-	['bikemessage'] = 'Spero che ti sia piaciuto il viaggio',
-	['notabike'] = 'Non sei su un veicolo!',
+	['press_e'] = 'Press ~INPUT_CONTEXT~ to open rent.',
+	['storebike'] = 'Press ~INPUT_CONTEXT~ store vehicle back.',	
+	['biketitle'] = 'Rent',
+	['bikemessage'] = 'I hope you enjoyed the ride',
+	['notabike'] = 'You are not on a vehicle!',
 	
-	['bike_pay'] = 'Hai pagato: $%s',
+	['bike_pay'] = 'You paid: $%s',
 	
 }
